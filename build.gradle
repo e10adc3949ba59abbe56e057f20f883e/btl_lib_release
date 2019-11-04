@@ -7,5 +7,5 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile files('libs/SMART_LOCK_BLUETOOTH_SDK_RELEASE_9.0.0.jar')
+    compile files('libs/SMART_LOCK_BLUETOOTH_SDK_RELEASE_10.0.1.jar')
 }
